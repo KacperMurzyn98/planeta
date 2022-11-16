@@ -1,0 +1,317 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ucvtci');
+  src:  url('fonts/icomoon.eot?ucvtci#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ucvtci') format('truetype'),
+    url('fonts/icomoon.woff?ucvtci') format('woff'),
+    url('fonts/icomoon.svg?ucvtci#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Apple:before {
+  content: "\e900";
+  color: #019355;
+}
+.icon-Batery:before {
+  content: "\e901";
+}
+.icon-Bicycle:before {
+  content: "\e902";
+  color: #3b40b5;
+}
+.icon-Book:before {
+  content: "\e903";
+  color: #f493cc;
+}
+.icon-Boy:before {
+  content: "\e904";
+  color: #3b40b5;
+}
+.icon-Brush:before {
+  content: "\e905";
+  color: #f56004;
+}
+.icon-Butterfly:before {
+  content: "\e906";
+  color: #ffca31;
+}
+.icon-Car:before {
+  content: "\e907";
+  color: #019355;
+}
+.icon-Cloud:before {
+  content: "\e908";
+  color: #3b40b5;
+}
+.icon-Clover:before {
+  content: "\e909";
+  color: #019355;
+}
+.icon-Coral:before {
+  content: "\e90a";
+  color: #f56004;
+}
+.icon-Coursor:before {
+  content: "\e90b";
+}
+.icon-Doodle:before {
+  content: "\e90c";
+}
+.icon-Doodle2:before {
+  content: "\e90d";
+}
+.icon-Dots:before {
+  content: "\e90e";
+}
+.icon-Drop:before {
+  content: "\e90f";
+  color: #3b40b5;
+}
+.icon-Earth:before {
+  content: "\e910";
+  color: #3b40b5;
+}
+.icon-Fish:before {
+  content: "\e911";
+  color: #3b40b5;
+}
+.icon-Flag:before {
+  content: "\e912";
+  color: #f56004;
+}
+.icon-Flower1:before {
+  content: "\e913";
+  color: #f493cc;
+}
+.icon-Flower2:before {
+  content: "\e914";
+  color: #f56004;
+}
+.icon-Flower3:before {
+  content: "\e915";
+  color: #f493cc;
+}
+.icon-Flower4:before {
+  content: "\e916";
+  color: #f493cc;
+}
+.icon-Flower5:before {
+  content: "\e917";
+  color: #f493cc;
+}
+.icon-Flower6:before {
+  content: "\e918";
+  color: #019355;
+}
+.icon-Food:before {
+  content: "\e919";
+  color: #f56004;
+}
+.icon-Girl:before {
+  content: "\e91a";
+  color: #f56004;
+}
+.icon-Globus:before {
+  content: "\e91b";
+  color: #3b40b5;
+}
+.icon-Grass:before {
+  content: "\e91c";
+  color: #019355;
+}
+.icon-Grass1:before {
+  content: "\e91d";
+  color: #019355;
+}
+.icon-Hammer:before {
+  content: "\e91e";
+}
+.icon-Heart:before {
+  content: "\e91f";
+  color: #f56004;
+}
+.icon-House2:before {
+  content: "\e920";
+  color: #f56004;
+}
+.icon-Human:before {
+  content: "\e921";
+  color: #3b40b5;
+}
+.icon-Laptop:before {
+  content: "\e922";
+  color: #3b40b5;
+}
+.icon-Lightbulb:before {
+  content: "\e923";
+  color: #ffca31;
+}
+.icon-Lightning:before {
+  content: "\e924";
+  color: #ffca31;
+}
+.icon-Localisation:before {
+  content: "\e925";
+  color: #f56004;
+}
+.icon-Moon:before {
+  content: "\e926";
+  color: #ffca31;
+}
+.icon-mushroom:before {
+  content: "\e927";
+  color: #f56004;
+}
+.icon-Palmtree:before {
+  content: "\e928";
+  color: #019355;
+}
+.icon-Peace-1:before {
+  content: "\e929";
+}
+.icon-Peace:before {
+  content: "\e92a";
+  color: #019355;
+}
+.icon-Pencil:before {
+  content: "\e92b";
+  color: #f56004;
+}
+.icon-Pine1:before {
+  content: "\e92c";
+}
+.icon-Pine2:before {
+  content: "\e92d";
+  color: #019355;
+}
+.icon-Planeta:before {
+  content: "\e92e";
+  color: #3b40b5;
+}
+.icon-Planeta2:before {
+  content: "\e92f";
+  color: #f56004;
+}
+.icon-Rain:before {
+  content: "\e930";
+  color: #3b40b5;
+}
+.icon-Rainbow:before {
+  content: "\e931";
+  color: #3b40b5;
+}
+.icon-Rainbow2:before {
+  content: "\e932";
+  color: #f493cc;
+}
+.icon-Robot:before {
+  content: "\e933";
+  color: #3b40b5;
+}
+.icon-School2:before {
+  content: "\e934";
+  color: #3b40b5;
+}
+.icon-Scissors:before {
+  content: "\e935";
+}
+.icon-Search:before {
+  content: "\e936";
+  color: #3b40b5;
+}
+.icon-Solarpanels:before {
+  content: "\e937";
+  color: #3b40b5;
+}
+.icon-Sprout:before {
+  content: "\e938";
+  color: #019355;
+}
+.icon-Square1:before {
+  content: "\e939";
+  color: #3b40b5;
+}
+.icon-Square2:before {
+  content: "\e93a";
+  color: #f56004;
+}
+.icon-Star1:before {
+  content: "\e93b";
+  color: #ffca31;
+}
+.icon-Star2:before {
+  content: "\e93c";
+  color: #ffca31;
+}
+.icon-Sun:before {
+  content: "\e93d";
+  color: #ffca31;
+}
+.icon-Sunlight:before {
+  content: "\e93e";
+  color: #ffca31;
+}
+.icon-Tool1:before {
+  content: "\e93f";
+}
+.icon-Tree1:before {
+  content: "\e940";
+  color: #019355;
+}
+.icon-Tree2:before {
+  content: "\e941";
+  color: #019355;
+}
+.icon-Tree3:before {
+  content: "\e942";
+  color: #019355;
+}
+.icon-Triangle:before {
+  content: "\e943";
+  color: #ffca31;
+}
+.icon-Triangle2:before {
+  content: "\e944";
+  color: #3b40b5;
+}
+.icon-Tulip:before {
+  content: "\e945";
+  color: #f56004;
+}
+.icon-Union:before {
+  content: "\e946";
+  color: #f493cc;
+}
+.icon-Vector:before {
+  content: "\e947";
+  color: #f56004;
+}
+.icon-Wase:before {
+  content: "\e948";
+  color: #f493cc;
+}
+.icon-Water:before {
+  content: "\e949";
+  color: #3b40b5;
+}
+.icon-Windmill:before {
+  content: "\e94a";
+  color: #f493cc;
+}
